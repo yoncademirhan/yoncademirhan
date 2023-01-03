@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yonca</h1>
 <h3 align="center">A passionate C# developer from Turkey</h3>
 
-- 🌱 I’m currently learning **.Net,Mvc and Asp**
+- 🌱 I’m currently **.Net Developer**
 
 - 👨‍💻 All of my projects are available at **https://yoncademirhan.com**
 
